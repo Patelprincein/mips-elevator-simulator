@@ -83,7 +83,6 @@ This project highlights:
 2.  Load the file:
 
 ```{=html}
-<!-- -->
 ```
     elevator.asm
 
