@@ -83,9 +83,8 @@ This project highlights:
 2.  Load the file:
 
 ```{=html}
-```
     elevator.asm
-
+```
 3.  Assemble the program.
 4.  Run with input from keyboard using the controls below.
 
